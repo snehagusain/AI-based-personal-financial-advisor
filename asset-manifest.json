@@ -1,22 +1,13 @@
 {
   "files": {
-    "main.css": "/AI-based-personal-financial-advisor/static/css/main.4f1c7fe5.chunk.css",
-    "main.js": "/AI-based-personal-financial-advisor/static/js/main.6f554fb3.chunk.js",
-    "main.js.map": "/AI-based-personal-financial-advisor/static/js/main.6f554fb3.chunk.js.map",
-    "runtime-main.js": "/AI-based-personal-financial-advisor/static/js/runtime-main.7728adbc.js",
-    "runtime-main.js.map": "/AI-based-personal-financial-advisor/static/js/runtime-main.7728adbc.js.map",
-    "static/js/2.4f6d30ee.chunk.js": "/AI-based-personal-financial-advisor/static/js/2.4f6d30ee.chunk.js",
-    "static/js/2.4f6d30ee.chunk.js.map": "/AI-based-personal-financial-advisor/static/js/2.4f6d30ee.chunk.js.map",
+    "main.css": "/AI-based-personal-financial-advisor/static/css/main.557854ce.css",
+    "main.js": "/AI-based-personal-financial-advisor/static/js/main.934bde65.js",
     "index.html": "/AI-based-personal-financial-advisor/index.html",
-    "precache-manifest.133a4d99512acebd1142aac4761576d5.js": "/AI-based-personal-financial-advisor/precache-manifest.133a4d99512acebd1142aac4761576d5.js",
-    "service-worker.js": "/AI-based-personal-financial-advisor/service-worker.js",
-    "static/css/main.4f1c7fe5.chunk.css.map": "/AI-based-personal-financial-advisor/static/css/main.4f1c7fe5.chunk.css.map",
-    "static/js/2.4f6d30ee.chunk.js.LICENSE.txt": "/AI-based-personal-financial-advisor/static/js/2.4f6d30ee.chunk.js.LICENSE.txt"
+    "main.557854ce.css.map": "/AI-based-personal-financial-advisor/static/css/main.557854ce.css.map",
+    "main.934bde65.js.map": "/AI-based-personal-financial-advisor/static/js/main.934bde65.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.7728adbc.js",
-    "static/js/2.4f6d30ee.chunk.js",
-    "static/css/main.4f1c7fe5.chunk.css",
-    "static/js/main.6f554fb3.chunk.js"
+    "static/css/main.557854ce.css",
+    "static/js/main.934bde65.js"
   ]
 }
